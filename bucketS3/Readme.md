@@ -1,4 +1,4 @@
-# ** Criação de um bucket s3 via terraform **
+# Criação de um bucket s3 via terraform
 
 ## Comandos:
 
@@ -7,4 +7,4 @@
 - terraform apply.
 
 ### Destruindo ambiente:
--terraform destroy.
+- terraform destroy.
